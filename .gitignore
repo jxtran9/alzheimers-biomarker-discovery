@@ -1,2 +1,5 @@
 .DS_Store
 data/processed_data.csv
+data/GSE48350_series_matrix.txt
+data/full_dataset.pkl
+data/processed_data_transposed_with_condition.csv
